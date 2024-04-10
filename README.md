@@ -19,3 +19,5 @@
 1. Click on the "Upload an image" button to upload an image.
 2. Once the image is uploaded, the application will display the image.
 3. The image will be processed by the pre-trained model, and the predicted description of the image will be displayed.
+
+[Click here to access the Streamlit application](https://coincomparison-vignesh.streamlit.app/)
